@@ -5,6 +5,4 @@ Compiling
 You may compile libft.a by running make.
 
 Documentation
-They should behave more or less the same as their standard C library counterparts. However, I have started documenting all of my libft for good measure. Some functions lack documentation, but they should be pretty straightforward to understand just by reading the code.
-
-#include "libft.h"
+They should behave more or less the same as their standard C library counterparts.
